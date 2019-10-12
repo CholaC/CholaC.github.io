@@ -4,5 +4,5 @@ Purpose: This website will contain the following:
    - Personal Blog
    - Code Projects and Hackathons
    - Cool Info from Conferences
-   - Volunteer Experience (ZOYA)
+   - Volunteer Experience
    - Work Experience
