@@ -1,0 +1,14 @@
+root{
+  --accent-color:#c39ea0;
+}
+
+.useCase{
+  background-color:var(--accent-color);
+}
+
+body{
+  margin:10px;
+  background-color:#ffe4e1;
+  text-align: center;
+  
+}
